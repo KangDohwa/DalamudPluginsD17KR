@@ -14,7 +14,6 @@
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
-  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Switches your /hudlayout when your game switches from windowed to fullscreen.",
   "AcceptsFeedback": true
