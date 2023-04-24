@@ -9,6 +9,7 @@
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Electric Boogaloo - ♪ A whole new chat, a new fantastic chat window ♪",
   "AcceptsFeedback": false,
