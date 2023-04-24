@@ -362,4 +362,47 @@
 		"_isDip17Plugin":true,
 		"_Dip17Channel":"stable"
 	},
+  {
+    "Author":"PunishedPineapple",
+    "Name":"Distance",
+    "Punchline":"Target distance widgets.",
+    "Description":"Displays the distance in yalms to the target (or optionally to the target\u0027s ring), and can display distance until aggro range for supported bosses.",
+    "Changelog":"- Reduce potential for log spamming.\n",
+    "Tags":[
+      "Distance",
+      "Range",
+      "Aggro",
+      "Enmity",
+      "Hate",
+      "Pull",
+      "Hitbox",
+      "Ring",
+      "Target"
+    ],
+    "CategoryTags":null,
+    "IsHide":false,
+    "InternalName":"Distance",
+    "AssemblyVersion":"1.0.1.2",
+    "TestingAssemblyVersion":null,
+    "IsTestingExclusive":false,
+    "RepoUrl":"https://github.com/PunishedPineapple/Distance",
+    "ApplicableVersion":"any",
+    "DalamudApiLevel":8,
+    "DownloadCount":37693,
+    "LastUpdate":1673488897,
+    "DownloadLinkInstall":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/Distance/latest.zip",
+    "DownloadLinkUpdate":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/Distance/latest.zip",
+    "DownloadLinkTesting":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/Distance/latest.zip",
+    "LoadPriority":0,
+    "ImageUrls":[
+      "https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/Distance/Images/image1.png",
+      "https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/Distance/Images/image2.png"
+    ],
+    "IconUrl":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/Distance/Images/icon.png",
+    "AcceptsFeedback":true,
+    "FeedbackMessage":null,
+    "FeedbackWebhook":null,
+    "_isDip17Plugin":true,
+    "_Dip17Channel":"stable"
+  },
 ]
