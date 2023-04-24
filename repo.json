@@ -4935,14 +4935,14 @@
 		"DalamudApiLevel":8,
 		"DownloadCount":154567,
 		"LastUpdate":1673513214,
-		"DownloadLinkInstall":"https://kamori.goats.dev/Plugin/Download/BigPlayerDebuffs?isUpdate=False\u0026isTesting=False\u0026branch=api8\u0026isDip17=True",
-		"DownloadLinkUpdate":"https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api8/plugins/BigPlayerDebuffs/latest.zip",
-		"DownloadLinkTesting":"https://kamori.goats.dev/Plugin/Download/BigPlayerDebuffs?isUpdate=False\u0026isTesting=True\u0026branch=api8\u0026isDip17=True",
+		"DownloadLinkInstall":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/BigPlayerDebuffs/latest.zip",
+		"DownloadLinkUpdate":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/BigPlayerDebuffs/latest.zip",
+		"DownloadLinkTesting":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/BigPlayerDebuffs/latest.zip",
 		"LoadPriority":0,
 		"ImageUrls":[
-		"https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/image1.png"
+		"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/BigPlayerDebuffs/images/image1.png"
 		],
-		"IconUrl":"https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
+		"IconUrl":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/BigPlayerDebuffs/images/icon.png",
 		"AcceptsFeedback":true,
 		"FeedbackMessage":null,
 		"FeedbackWebhook":null,
