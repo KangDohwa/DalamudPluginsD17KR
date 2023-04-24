@@ -9,8 +9,12 @@
   "Tags": [
     "Discord"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Show your zone, job, level, name, and world in your Discord status",
-  "Changelog": "API 7 compatibility"
+  "Changelog": "API 7 compatibility",
+  "AcceptsFeedback": true
 }
