@@ -669,7 +669,9 @@
     "DownloadLinkUpdate":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/Orchestrion/latest.zip",
     "DownloadLinkTesting":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/Orchestrion/latest.zip",
     "LoadPriority":0,
-    "ImageUrls":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/Orchestrion/images/image1.png",
+    "ImageUrls":[
+			"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/Orchestrion/images/image1.png"
+		],
     "IconUrl":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/Orchestrion/images/icon.png",
     "AcceptsFeedback":true,
     "FeedbackMessage":null,
