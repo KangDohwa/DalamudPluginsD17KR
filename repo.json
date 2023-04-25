@@ -2,9 +2,9 @@
 	{
 		"Author":"Ottermandias",
 		"Name":"Accountant",
-		"Punchline":"Character task timers.",
+		"Punchline":"타이머 플러그인",
 		"Description":"집사, 비공정, 잠수함, 일일/주간 복권 등 타이머를 표시해주는 플러그인입니다.",
-		"Changelog":"Updated for Dalamud staging.",
+		"Changelog":"-",
 		"Tags":[
 		"Airship",
 		"Gardening",
@@ -44,9 +44,9 @@
 	{
 		"Author":"Tischel",
 		"Name":"ActionTimeline",
-		"Punchline":"Show your actions in real-time.",
-		"Description":"Configurable timeline display of all the actions you use.",
-		"Changelog":"- Added support for Patch 6.3 and Dalamud Api8.",
+		"Punchline":"캐스팅/액션 타임라인 플러그인",
+		"Description":"한 행동들을 보여주는 설정 가능한 타임라인",
+		"Changelog":"-",
 		"Tags":[
 		"UI"
 		],
@@ -76,9 +76,9 @@
 	{
 		"Author":"Helios",
 		"Name":"Adaptive Hud",
-		"Punchline":"Switches your /hudlayout when your game switches from windowed to fullscreen.",
-		"Description":"Useful for ultrawide users, swapping from windowed/fullscreen will automatically switch your hudlayout.\n\n/pah to configure",
-		"Changelog":"API 8",
+		"Punchline":"전체화면모드와 창모드로 전환할 때 /hudlayout 을 자동으로 적용해보세요.",
+		"Description":"울트라와이드 모니터 사용자에게 유용하며, 전체화면/창모드 전환 시에 자동으로 HUD 레이아웃을 변경해줍니다.\n\n명령어 : /pah",
+		"Changelog":"-",
 		"Tags":[
 		"hudlayout",
 		"hud",
@@ -110,8 +110,8 @@
 	{
 		"Author":"Caraxi",
 		"Name":"Adventurer in Need",
-		"Punchline":"Recieve a notification when a duty roulette is in need of a role.",
-		"Description":"Recieve a notification when a duty roulette is in need of a role. /pbonus to setup",
+		"Punchline":"무작위 임무에 부족한 역할군이 생기면 알림을 받습니다.",
+		"Description":"무작위 임무에 부족한 역할군이 생기면 알림을 받습니다.\n\n명령어 : /pbonus",
 		"Changelog":null,
 		"Tags":null,
 		"CategoryTags":null,
@@ -140,9 +140,9 @@
 	{
 		"Author":"Infi",
 		"Name":"Better Playtime",
-		"Punchline":"Ever wanted detailed information on your playtime all the way down to the second?",
+		"Punchline":"초단위로 오늘의 접속시간을 보고 싶지 않으신가요?",
 		"Description":"Provides expanded functionality to seamlessly track total playtime.\n Use /btime once on each character to add them.\n\n - Supports multiple characters,\n - Customisable output formats such as hours or minutes\n - Automatic playtime tracking after character got registered\n - Simple window to see current session playtime\n - Server Info Bar integration",
-		"Changelog":"[nofranz]\n",
+		"Changelog":"-",
 		"Tags":[
 		"Playtime",
 		"plugin"
@@ -173,9 +173,9 @@
 	{
 		"Author":"d87",
 		"Name":"BigPlayerDebuffs",
-		"Punchline":"Larger personal debuffs",
-		"Description":"Scales up buffs/debuffs applied by you on Target Status frames",
-		"Changelog":"v1.1.0.8 - 6.3 Dalamud Update",
+		"Punchline":"디버프 크기 키우기",
+		"Description":"대상에게 건 디버프를 크게 보여줍니다.",
+		"Changelog":"-",
 		"Tags":null,
 		"CategoryTags":null,
 		"IsHide":false,
@@ -205,9 +205,9 @@
 	{
 		"Author":"ascclemens",
 		"Name":"Chat 2",
-		"Punchline":"Electric Boogaloo - \u266A A whole new chat, a new fantastic chat window \u266A",
+		"Punchline":"Electric Boogaloo - \u266A 완전히 새로운 채팅창, 새로운 창에 표시 \u266A",
 		"Description":"Chat 2는 새로운 창에 인게임 채팅창을 구현합니다.\n지원하는 기능:\n\n- 무제한 탭\n- 특정 채팅 채널로 보내주는 탭\n- 보다 유연한 필터링\n- RGB 컬러링\n- 자유로운 폰트 크기\n- 사이드바 방식의 탭\n- 읽지 않은 메시지 표시\n- 스크린샷 모드 (obfuscate names)",
-		"Changelog":"- Fix various links not working.\n- Fix a crash.\n- Fix the search for item in recipes button.\n",
+		"Changelog":"-",
 		"Tags":null,
 		"CategoryTags":null,
 		"IsHide":false,
@@ -235,8 +235,8 @@
 	{
 		"Author":"MidoriKami",
 		"Name":"Daily Duty",
-		"Punchline":"Easily Track Daily and Weekly tasks",
-		"Description":"Automatically track and complete many daily and weekly tasks.\n\n/dd help \u2192 Display all available commands",
+		"Punchline":"일일/주간 할일을 표시해줍니다.",
+		"Description":"일일/주간 할일을 자동으로 표시해줍니다.\n\n/dd help \u2192 모든 명령어 표시",
 		"Changelog":null,
 		"Tags":[
 		"utility"
@@ -270,8 +270,8 @@
   {
     "Author":"perchbird",
     "Name":"Damage Info",
-    "Punchline":"Modifies in-game fly-text for more (or less) damage information.",
-    "Description":"Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options.",
+    "Punchline":"보다 많은(또는 적은) 인게임 데미지 정보",
+    "Description":"다양하게 설정 가능한 인게임 데미지 표시",
     "Changelog":null,
     "Tags":null,
     "CategoryTags":null,
@@ -300,9 +300,9 @@
 	{
 		"Author":"goat, modded by Franz",
 		"Name":"Discord Chat Bridge",
-		"Punchline":"Receive your chat messages via Discord.",
-		"Description":"This plugin allows you to receive your chat messages via Discord.",
-		"Changelog":"New Changes:\n- Set fallback sendername value if there is none. This will be \u0060FFXIV Bridge Worker \u003Cyour character name\u003E\u0060\n\nLast Changes:\n- Fixed duplicate chat issue.\n- Added a classic embed fallback feature in case webhooks fail.\n- Fixes for NET7 / API 8\n- Updated library dependencies and switched to NetStone as submodule.\n- Switched to using full-width \uFF20 because Discord started enforcing username requirements on webhooks and @ isn\u0027t allowed there.\n\n\n**If your bot stopped working in September 2022, please enable Message Intents. See the setup guide for updated steps.**\n",
+		"Punchline":"인게임 채팅을 디스코드로 받아보세요.",
+		"Description":"이 플러그인은 인게임 채팅을 디스코드로 받을 수 있게 해줍니다.",
+		"Changelog":"-",
 		"Tags":[
 		"discord",
 		"chat"
@@ -335,7 +335,7 @@
 		"Name":"Discord Rich Presence",
 		"Punchline":"디스코드 상태로 당신의 게임 정보를 표시하세요.",
 		"Description":"이 플러그인은 당신의 위치, 직업, 레벨, 이름, 그리고 서버를 디스코드 상태에 표시해줍니다.",
-		"Changelog":"NET7 / API 8 support.",
+		"Changelog":"-",
 		"Tags":[
 		"Discord"
 		],
@@ -365,9 +365,9 @@
   {
     "Author":"PunishedPineapple",
     "Name":"Distance",
-    "Punchline":"Target distance widgets.",
-    "Description":"Displays the distance in yalms to the target (or optionally to the target\u0027s ring), and can display distance until aggro range for supported bosses.",
-    "Changelog":"- Reduce potential for log spamming.\n",
+    "Punchline":"대상과의 거리를 보여주는 플러그인",
+    "Description":"대상과의 거리(또는 설정에 따라서 테두리와의 거리)를 얄름(y)로 보여주며, 지원되는 보스들과의 거리도 보여줍니다.",
+    "Changelog":"-",
     "Tags":[
       "Distance",
       "Range",
@@ -408,9 +408,9 @@
   {
     "Author":"Speedas",
     "Name":"Emote log",
-    "Punchline":"Track who used what emotes on you.",
-    "Description":"Adds a window logging all emotes used on you, so you never miss a sneaky dote again.",
-    "Changelog":"Initial public release",
+    "Punchline":"당신에게 감정표현을 쓴 사람을 보여줍니다.",
+    "Description":"몰래 쓴 /애정을 놓치지 않도록, 감정표현을 받은 기록 창을 추가합니다.",
+    "Changelog":"-",
     "Tags":null,
     "CategoryTags":[
       "social"
@@ -440,9 +440,9 @@
   {
     "Author":"Xorus",
     "Name":"EngageTimer",
-    "Punchline":"Complete combat countdown, pull timer and OBS overlay",
-    "Description":"Finally, display all the numbers when starting a countdown!\nComes with an accurate pull timer that starts when you or any of your party members enter combat.\n\nFeatures :\n- Big countdown that displays all the numbers\n- Customizable big-number textures (default, yellow, WoW style or custom files)\n- Display combat time in the Server Info Bar, and/or a floating window\n- OBS browser-source compatible page with countdown and current combat duration\n\nWhy the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.\nSee repository for more info.\n\nFeel free so send me feedback, bugs and potential improvements!",
-    "Changelog":"- Fix decimals not being properly hidden with the display threshold option",
+    "Punchline":"초읽기 플러그인",
+    "Description":"초읽기 플러그인\n\n기능들 :\n- 커다란 초읽기\n- 커스텀 가능한 숫자 (기본, 노랑, WoW 스타일 또는 커스텀 파일)\n- 서버 정보 바, 또 다른 창에 전투 시간 표시\n- 초읽기와 현재 전투 시간에 대한 OBS 브라우저 소스 지원\n\n녹화할 때 OBS가 필요할지도 모르잖아요?",
+    "Changelog":"-",
     "Tags":[
       "countdown",
       "pull timer",
@@ -484,9 +484,9 @@
   {
     "Author":"ascclemens",
     "Name":"Glamaholic",
-    "Punchline":"Save and swap your glamour plates.",
-    "Description":"Create and save as many glamour plates as you want. Activate up to 15 of them\nat once at the Glamour Dresser. Supports exporting and importing plates for\neasy sharing.\n",
-    "Changelog":"API 8",
+    "Punchline":"플러그인으로 저장하는 투영 세트.",
+    "Description":"원하는 만큼의 투영 세트를 저장하세요. 20개 이상 저장할 수 있습니다. export와 import 지원.\n",
+    "Changelog":"-",
     "Tags":null,
     "CategoryTags":null,
     "IsHide":false,
@@ -514,8 +514,8 @@
   {
     "Author":"MgAl2O4",
     "Name":"Harp Hero",
-    "Punchline":"Bard performance assistant",
-    "Description":"Assist mode for bards who want to play music but don\u0027t know how to.\n- does NOT play anything automatically\n- needs MIDI files to work\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O",
+    "Punchline":"바드의 진정한 역할",
+    "Description":"연주를 하고 싶지만 어떻게 하는지 모르는 바드들을 위한 '어시스트' 플러그인.\n- 자동으로 연주해주는 것이 절대 아님\n- MIDI 파일 필요\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O",
     "Changelog":null,
     "Tags":[
       "bard",
@@ -553,7 +553,7 @@
   {
     "Author":"perchbird",
     "Name":"Housemate",
-    "Punchline":"Displays information about housing fixtures and objects.",
+    "Punchline":"하우징 아이템들의 정보를 보여주는 플러그인",
     "Description":"Housemate offers multiple features that help you gain inspiration from other homes in XIV.\nIf you\u0027re looking for a specific home or outdoor item, you can check the exterior list\nwhen running around a ward. If you\u0027re interested in seeing what items make up a\nstructure in a home - turn on the item overlay to see what they are!\n\nNote: This plugin is purely informational, and does not assist you in placing\nor \u0022glitching\u0022 housing items.",
     "Changelog":null,
     "Tags":null,
@@ -936,6 +936,43 @@
     "_isDip17Plugin":true,
     "_Dip17Channel":"stable"
   },
+	{
+		"Author": "Jawslouis",
+		"Name": "MakePlace Plugin",
+    "Punchline":"하우징 플러그인",
+		"InternalName": "MakePlacePlugin",
+		"Description": "Automatically save & load interior and exterior house layouts. Import/export layouts from the MakePlace program.",
+    "Changelog":null,
+		"AssemblyVersion": "2.18.0.0",
+		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
+		"Tags": [
+			"makeplace",
+			"housing",
+			"furniture",
+			"jawslouis"
+		],
+    "IsHide":false,
+    "TestingAssemblyVersion":null,
+    "IsTestingExclusive":false,
+		"DalamudApiLevel": 8,
+    "DownloadCount":0,
+    "LastUpdate":1673499476,
+    "DownloadLinkInstall":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/MakePlacePlugin/latest.zip",
+    "DownloadLinkUpdate":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/MakePlacePlugin/latest.zip",
+    "DownloadLinkTesting":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/MakePlacePlugin/latest.zip",
+		"LoadRequiredState": 0,
+		"LoadSync": false,
+		"LoadPriority": 0,
+    "ImageUrls":null,
+		"IconUrl": "https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/MakePlacePlugin/images/icon.png",
+		"Punchline": "Automatically save & load furniture layouts in your house.",
+    "AcceptsFeedback":true,
+    "FeedbackMessage":null,
+    "FeedbackWebhook":null,
+    "_isDip17Plugin":true,
+    "_Dip17Channel":"stable"
+	},
 	{
 		"Disabled": false,
 		"Testing": false,
