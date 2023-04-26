@@ -1005,6 +1005,44 @@
     "_Dip17Channel":"stable"
 	},
 	{
+		"Author": "shdwp, Avaflow, squidmade",
+		"Name": "Party Icons",
+		"InternalName": "PartyIcons",
+		"Punchline": "Replace names with job icons, raid role positions and more!",
+		"Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.\n\nReverse-engineering effort achieved by authors of JobIcons: haplo, daemitus, Loskh, wozaiha, without them this plugin would not be possible!",
+    "Changelog":null,
+		"AssemblyVersion": "1.0.9.9",
+		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/shdwp/xivPartyIcons",
+		"Tags": [
+			"UI"
+		],
+    "IsHide":false,
+    "TestingAssemblyVersion":null,
+    "IsTestingExclusive":false,
+		"DalamudApiLevel": 7,
+    "DownloadCount":0,
+    "LastUpdate":1673499476,
+    "DownloadLinkInstall":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/PartyIcons/latest.zip",
+    "DownloadLinkUpdate":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/PartyIcons/latest.zip",
+    "DownloadLinkTesting":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/PartyIcons/latest.zip",
+		"LoadRequiredState": 0,
+		"LoadSync": false,
+		"LoadPriority": 0,
+		"ImageUrls": [
+			"https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/Resources/1.png",
+			"https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/Resources/2.png",
+			"https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/Resources/3.png",
+			"https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/Resources/4.png"
+		],
+		"IconUrl": "https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/PartyIcons/images/icon.png",
+    "AcceptsFeedback":true,
+    "FeedbackMessage":null,
+    "FeedbackWebhook":null,
+    "_isDip17Plugin":true,
+    "_Dip17Channel":"stable"
+	},
+	{
 		"Disabled": false,
 		"Testing": false,
 		"ScheduledForDeletion": false,
