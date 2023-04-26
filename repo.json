@@ -587,8 +587,8 @@
   {
     "Author":"Caraxi",
     "Name":"Macro Chain",
-    "Punchline":"Run multiple macros one after the other.",
-    "Description":"Allows for a macro to continue onto the next macro by using \u0027/nextmacro\u0027 on the last line of a macro.\nAdding \u0027/nextmacro\u0027 on the last line of Macro #01 will automatically execute Macro #02\nAdding \u0027/nextmacro down\u0027 on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using \u0027/runmacro\u0027 but this command cannot be used while macros are running.",
+    "Punchline":"매크로를 연결해서 사용해보세요.",
+    "Description":"매크로의 마지막 줄에 \u0027/nextmacro\u0027 를 넣어서 다음 매크로가 이어서 실행되게 합니다.\n1번 매크로의 마지막 줄에 \u0027/nextmacro\u0027 를 입력해두면, 자동으로 2번 매크로가 실행됩니다.\n1번 매크로의 마지막 줄에 \u0027/nextmacro down\u0027 를 입력해두면 자동으로 11번 매크로가 실행됩니다.\n또한, 채팅창에 \u0027/runmacro\u0027 를 입력하면 그 매크로를 실행해주지만, 매크로 내에서 사용할 수는 없습니다.",
     "Changelog":null,
     "Tags":null,
     "CategoryTags":null,
@@ -617,9 +617,9 @@
   {
     "Author":"Bluefissure",
     "Name":"MapLinker",
-    "Punchline":"Record the maplinks in chat",
-    "Description":"Automatically record the maplinks in chat and retrieval later.",
-    "Changelog":"Patch 6.3 \u0026 API8 \u0026 net7",
+    "Punchline":"채팅에 깃방을 기록해두세요.",
+    "Description":"채팅에 깃발을 기록해두고, 나중에도 찾아볼 수 있습니다.",
+    "Changelog":"-",
     "Tags":null,
     "CategoryTags":null,
     "IsHide":false,
@@ -719,7 +719,7 @@
     "Name":"Peeping Tom",
     "Punchline":"Shows who is currently or was previously targeting you.",
     "Description":"Shows who is currently or was previously targeting you.",
-    "Changelog":"\\\n- API 8\n",
+    "Changelog":"-",
     "Tags":null,
     "CategoryTags":null,
     "IsHide":false,
@@ -749,7 +749,7 @@
     "Name":"Pixel Perfect",
     "Punchline":"Reveals your hitbox, with customisable features.",
     "Description":"Showing exactly where to stand since 2020.",
-    "Changelog":"Added ring offset rotation, export/import, and sheathed check.",
+    "Changelog":"-",
     "Tags":[
       "Hitbox",
       "Overlay",
@@ -879,7 +879,7 @@
     "Name":"XIV Combo",
     "Punchline":"PvP, but in PvE!",
     "Description":"This plugin condenses combos and mutually exclusive abilities onto a single button. /pcombo to open menu",
-    "Changelog":"updated for patchremoved goring blade combo. thanks yoship for making pld playable!",
+    "Changelog":"-",
     "Tags":[
       "Combo"
     ],
