@@ -336,6 +336,44 @@
     "_isDip17Plugin":true,
     "_Dip17Channel":"stable"
   },
+  {
+    "Author":"Kouzukii",
+    "Name":"Death Recap",
+    "Punchline":"Quickly figure out what killed you or your party members!",
+    "Description":"Quickly figure out what killed you or your party members!\n\nShows:\n- Healing\n- Damage taken\n- Debuffs\n- Buffs\n- Barriers\n- Addle, Feint, Reprisal on damage source",
+    "Changelog":"-",
+    "Tags":[
+      "death",
+      "recap",
+      "log"
+    ],
+    "CategoryTags":[
+      "utility"
+    ],
+    "IsHide":false,
+    "InternalName":"DeathRecap",
+    "AssemblyVersion":"1.9.0.0",
+    "TestingAssemblyVersion":null,
+    "IsTestingExclusive":false,
+    "RepoUrl":"https://github.com/Kouzukii/ffxiv-deathrecap",
+    "ApplicableVersion":"any",
+    "DalamudApiLevel":8,
+    "DownloadCount":242077,
+    "LastUpdate":1680808418,
+    "DownloadLinkInstall":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/DeathRecap/latest.zip",
+    "DownloadLinkUpdate":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/DeathRecap/latest.zip",
+    "DownloadLinkTesting":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/DeathRecap/latest.zip",
+    "LoadPriority":0,
+    "ImageUrls":[
+			"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/DeathRecap/images/image1.png",
+		],
+    "IconUrl":"https://raw.githubusercontent.com/KangDohwa/DalamudPluginsD17KR/main/r_by_dohwa/DeathRecap/images/icon.png",
+    "AcceptsFeedback":true,
+    "FeedbackMessage":null,
+    "FeedbackWebhook":null,
+    "_isDip17Plugin":true,
+    "_Dip17Channel":"stable"
+  },
 	{
 		"Author":"goat, modded by Franz",
 		"Name":"Discord Chat Bridge",
